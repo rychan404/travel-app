@@ -18,18 +18,35 @@ app.add_middleware(
 
 @app.get("/flights/")
 async def get_flight_results():
+    def best_flight_list(FlightData):
+        data = [FlightData]
+        shortData = []
+        for i in range(5):
+            shortData[i] = data[i]
+        return shortData
+
     result = get_flights(
         flight_data=[
-            FlightData(date="2026-01-15", from_airport="JFK", to_airport="CDG")
+            FlightData(date="2026-01-16", from_airport="JFK", to_airport="CDG")
         ],
         trip="one-way",
         seat="economy",
         passengers=Passengers(adults=1, children=0, infants_in_seat=0, infants_on_lap=0),
         fetch_mode="fallback",
     )
-    
-    return result
+    def get_price(FlightData):
+        return FlightData.price
+    #result.flights.sort(key=get_price)
 
+    def shorten_flights(List):
+        shortFlight = []
+        for i in range(5):
+            shortFlight.append(List[i])
+        return shortFlight
+    
+    result.flights = shorten_flights(result.flights)
+    #print(result.flights[0])
+    return result
 
 @app.get("/")
 async def root():
