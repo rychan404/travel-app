@@ -27,7 +27,7 @@ async def get_flight_results():
 
     result = get_flights(
         flight_data=[
-            FlightData(date="2026-01-16", from_airport="JFK", to_airport="CDG")
+            FlightData(date="2026-01-20", from_airport="JFK", to_airport="CDG")
         ],
         trip="one-way",
         seat="economy",
