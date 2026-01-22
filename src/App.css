@@ -1,1 +1,13 @@
 @import "tailwindcss";
+
+@theme {
+    --color-tan: #FFE2AF;
+    --color-lblue: #79C9C5;
+    --color-dblue: #3F9AAE;
+    --color-lred: #F96E5B;
+}
+
+@font-face {
+    font-family: 'Arnel';
+    src: url('./fonts/Arnel-Regular.otf');
+}
