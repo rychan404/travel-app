@@ -1,5 +1,6 @@
 import './App.css'
 import { useEffect, useState } from 'react'
+import { NavBar } from './components/NavBar'
 
 function App() {
   const [flightsText, setFlightsText] = useState('Loading flights...')
@@ -11,7 +12,12 @@ function App() {
       .catch(err => setFlightsText(`Error: ${err.message}`))
   }, [])  
 
-  return <h1>{flightsText}</h1>
+  return (
+    <>
+      <NavBar/>
+      <h1>{flightsText}</h1>
+    </>
+  )
 }
 
 export default App

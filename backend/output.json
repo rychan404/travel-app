@@ -1,0 +1,1038 @@
+[
+    {
+        "city_ascii":"Antrim",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Akureyri",
+        "country":"Iceland"
+    },
+    {
+        "city_ascii":"Vevey",
+        "country":"Switzerland"
+    },
+    {
+        "city_ascii":"Gjirokaster",
+        "country":"Albania"
+    },
+    {
+        "city_ascii":"Masterton",
+        "country":"New Zealand"
+    },
+    {
+        "city_ascii":"Albany",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Buckeburg",
+        "country":"Germany"
+    },
+    {
+        "city_ascii":"Clifton",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Lloydminster",
+        "country":"Canada"
+    },
+    {
+        "city_ascii":"Lexington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Nove Mesto nad Vahom",
+        "country":"Slovakia"
+    },
+    {
+        "city_ascii":"Visaginas",
+        "country":"Lithuania"
+    },
+    {
+        "city_ascii":"Herceg Novi",
+        "country":"Montenegro"
+    },
+    {
+        "city_ascii":"Arese",
+        "country":"Italy"
+    },
+    {
+        "city_ascii":"Sao Vicente Ferrer",
+        "country":"Brazil"
+    },
+    {
+        "city_ascii":"Corner Brook",
+        "country":"Canada"
+    },
+    {
+        "city_ascii":"Stillwater",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Harrisburg",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Sligo",
+        "country":"Ireland"
+    },
+    {
+        "city_ascii":"Point Pleasant",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Baden",
+        "country":"Switzerland"
+    },
+    {
+        "city_ascii":"Ashland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Augusta",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Springfield",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Martinsburg",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Malacky",
+        "country":"Slovakia"
+    },
+    {
+        "city_ascii":"Rutherford",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Hopkins",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Ashland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Nuuk",
+        "country":"Greenland"
+    },
+    {
+        "city_ascii":"South Orange Village",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Trenton",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Concord",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Concord",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Laurel",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Palanga",
+        "country":"Lithuania"
+    },
+    {
+        "city_ascii":"Burlington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Gainesville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Concord",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Conyers",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Ptuj",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Keszthely",
+        "country":"Hungary"
+    },
+    {
+        "city_ascii":"Gainesville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"South Ockendon",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Jacksonville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Budva",
+        "country":"Montenegro"
+    },
+    {
+        "city_ascii":"Viljandi",
+        "country":"Estonia"
+    },
+    {
+        "city_ascii":"Aurora",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Dallas",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Charleston",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Bellingham",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Laurel",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"New Port Richey",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Norwalk",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Huntington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Springfield",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Truckee",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Long Beach",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Solothurn",
+        "country":"Switzerland"
+    },
+    {
+        "city_ascii":"Slavonski Brod",
+        "country":"Croatia"
+    },
+    {
+        "city_ascii":"Sao Vicente Ferrer",
+        "country":"Brazil"
+    },
+    {
+        "city_ascii":"Madison",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Rawa Mazowiecka",
+        "country":"Poland"
+    },
+    {
+        "city_ascii":"Belem",
+        "country":"Brazil"
+    },
+    {
+        "city_ascii":"Buffalo",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Bellevue",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Kota",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Chai Prakan",
+        "country":"Thailand"
+    },
+    {
+        "city_ascii":"Canmore",
+        "country":"Canada"
+    },
+    {
+        "city_ascii":"Warren",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Frederick",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Dayton",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Udayagiri",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Bar",
+        "country":"Montenegro"
+    },
+    {
+        "city_ascii":"Coos Bay",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Fremont",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Hartford",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Wailuku",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Langenthal",
+        "country":"Switzerland"
+    },
+    {
+        "city_ascii":"Jackson",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Rakvere",
+        "country":"Estonia"
+    },
+    {
+        "city_ascii":"Zabbar",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"New Haven",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Canet de Mar",
+        "country":"Spain"
+    },
+    {
+        "city_ascii":"Kawasaki",
+        "country":"Japan"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Durham",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Struga",
+        "country":"North Macedonia"
+    },
+    {
+        "city_ascii":"Arlington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Paralimni",
+        "country":"Cyprus"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Henderson",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Naxxar",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Comox",
+        "country":"Canada"
+    },
+    {
+        "city_ascii":"Roseau",
+        "country":"Dominica"
+    },
+    {
+        "city_ascii":"San Gwann",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Tlaxcala",
+        "country":"Mexico"
+    },
+    {
+        "city_ascii":"Farnborough",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Munster",
+        "country":"Germany"
+    },
+    {
+        "city_ascii":"Mykolaiv",
+        "country":"Ukraine"
+    },
+    {
+        "city_ascii":"Dallas",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Killarney",
+        "country":"Ireland"
+    },
+    {
+        "city_ascii":"Jacksonville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Horta",
+        "country":"Portugal"
+    },
+    {
+        "city_ascii":"East Rancho Dominguez",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Jacksonville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Lakeland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"College Park",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Powell River",
+        "country":"Canada"
+    },
+    {
+        "city_ascii":"Urbana",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Aurora",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Orange Walk",
+        "country":"Belize"
+    },
+    {
+        "city_ascii":"Saint Ann's Bay",
+        "country":"Jamaica"
+    },
+    {
+        "city_ascii":"Bilaspur",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Norwalk",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Udayagiri",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Lincoln",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Henderson",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Portland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Trenton",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Huntington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Domzale",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Southwick",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Glendale",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Las Vegas",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Gorakhpur",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Nova Gorica",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Miami",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Rochester",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Greenville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Greenville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Oakland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Brunswick",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Eureka",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Mandalgovi",
+        "country":"Mongolia"
+    },
+    {
+        "city_ascii":"Madison",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Gig Harbor",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Andijon",
+        "country":"Uzbekistan"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Raipur",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Richmond",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Laurel",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Whistler",
+        "country":"Canada"
+    },
+    {
+        "city_ascii":"Salem",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Evanston",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Skofja Loka",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Valga",
+        "country":"Estonia"
+    },
+    {
+        "city_ascii":"Gulfport",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Ontario",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Kruje",
+        "country":"Albania"
+    },
+    {
+        "city_ascii":"Izola",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Plano",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Cruzeiro do Sul",
+        "country":"Brazil"
+    },
+    {
+        "city_ascii":"Norfolk",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Broome",
+        "country":"Australia"
+    },
+    {
+        "city_ascii":"Newport",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Fredericksburg",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Brooklyn",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Borjomi",
+        "country":"Georgia"
+    },
+    {
+        "city_ascii":"Nafpaktos",
+        "country":"Greece"
+    },
+    {
+        "city_ascii":"Murska Sobota",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Grand Rapids",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Urbana",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Hexham",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Warren",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Columbia",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Burlington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Attard",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Muswellbrook",
+        "country":"Australia"
+    },
+    {
+        "city_ascii":"Cleveland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Pleasanton",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Montgomery",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Russellville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Airway Heights",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Jackson",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Hartford",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Aberystwyth",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Lexington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Memphis",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Southwick",
+        "country":"United Kingdom"
+    },
+    {
+        "city_ascii":"Ontario",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Camden",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Hisar",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Erlenbach am Main",
+        "country":"Germany"
+    },
+    {
+        "city_ascii":"Manhattan",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Divonne-les-Bains",
+        "country":"France"
+    },
+    {
+        "city_ascii":"Jaipur",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Columbia",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Sechelt",
+        "country":"Canada"
+    },
+    {
+        "city_ascii":"Vrnjacka Banja",
+        "country":"Serbia"
+    },
+    {
+        "city_ascii":"Swieqi",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Setubal",
+        "country":"Portugal"
+    },
+    {
+        "city_ascii":"Fil'akovo",
+        "country":"Slovakia"
+    },
+    {
+        "city_ascii":"Roanoke",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Salem",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Hamrun",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Birzebbuga",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Burlington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Csorna",
+        "country":"Hungary"
+    },
+    {
+        "city_ascii":"Bilaspur",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Greenville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Louisville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Oakland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Mechanicsburg",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Clarksville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Ashland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Haapsalu",
+        "country":"Estonia"
+    },
+    {
+        "city_ascii":"Tivat",
+        "country":"Montenegro"
+    },
+    {
+        "city_ascii":"Jackson",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Bridgeport",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"East Stroudsburg",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Palomares del Rio",
+        "country":"Spain"
+    },
+    {
+        "city_ascii":"Washington",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Warren",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Charlotte",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Augusta",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Stillwater",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Riverside",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Dallas",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Raipur",
+        "country":"India"
+    },
+    {
+        "city_ascii":"Dayton",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Springfield",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Essen",
+        "country":"Germany"
+    },
+    {
+        "city_ascii":"Riverside",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Lynwood",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Newark",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Greenville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Jackson",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Bernolakovo",
+        "country":"Slovakia"
+    },
+    {
+        "city_ascii":"Lancaster",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Midland",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Providence",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Harrisburg",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Greenville",
+        "country":"United States"
+    },
+    {
+        "city_ascii":"Tarxien",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Gzira",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Paide",
+        "country":"Estonia"
+    },
+    {
+        "city_ascii":"Aizkraukle",
+        "country":"Latvia"
+    },
+    {
+        "city_ascii":"Krsko",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Punakha",
+        "country":"Bhutan"
+    },
+    {
+        "city_ascii":"Soldanesti",
+        "country":"Moldova"
+    },
+    {
+        "city_ascii":"Vaduz",
+        "country":"Liechtenstein"
+    },
+    {
+        "city_ascii":"Triesen",
+        "country":"Liechtenstein"
+    },
+    {
+        "city_ascii":"Gevgelija",
+        "country":"North Macedonia"
+    },
+    {
+        "city_ascii":"Nonthaburi",
+        "country":"Thailand"
+    },
+    {
+        "city_ascii":"Xewkija",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Heredia",
+        "country":"Costa Rica"
+    },
+    {
+        "city_ascii":"Vila Velha",
+        "country":"Brazil"
+    },
+    {
+        "city_ascii":"Egilsstadhir",
+        "country":"Iceland"
+    },
+    {
+        "city_ascii":"Ruggell",
+        "country":"Liechtenstein"
+    },
+    {
+        "city_ascii":"Zabljak",
+        "country":"Montenegro"
+    },
+    {
+        "city_ascii":"Philipsburg",
+        "country":"Sint Maarten"
+    },
+    {
+        "city_ascii":"Rogatec",
+        "country":"Slovenia"
+    },
+    {
+        "city_ascii":"Munxar",
+        "country":"Malta"
+    },
+    {
+        "city_ascii":"Hamilton",
+        "country":"Bermuda"
+    }
+]
