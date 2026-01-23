@@ -4,14 +4,21 @@ import { TravelRecContainer } from '../components/TravelRecContainer';
 
 export const RecommendationPage = () => {
 
-    const travelers: string[] = ['Adult', 'Children', 'Infant on Seat', 'Infant on Lap'];
+    // const travelers: string[] = ['Adult', 'Children', 'Infant on Seat', 'Infant on Lap'];
 
     return (
-        <>
+        <div className='bg-teal-50'>
             <NavBar/>
-            <main>
+            <main className='mt-20 flex flex-col items-center h-screen'>
+                <h1 className='text-5xl font-[Roboto]'>Travel Pick Just for <em>You</em></h1>
                 <TravelRecContainer/>
-                <div className='p-5 flex justify-center items-center flex-col'>
+            </main>
+        </div>
+    );
+}
+
+/*
+<div className='p-5 flex justify-center items-center flex-col'>
                     <h1 className='text-3xl mb-4'>Find your destination</h1>
                     <div className='flex gap-2'>
                         <div className='flex flex-col'>
@@ -48,7 +55,4 @@ export const RecommendationPage = () => {
                         <button>Go</button>
                     </div>
                 </div>
-            </main>
-        </>
-    );
-}
+*/

@@ -4,23 +4,10 @@ import { TravelRecResults } from './TravelRecResults';
 import { useState } from 'react';
 
 export const TravelRecContainer = () => {
-    const [climateSelected, setClimateSelected] = useState(null);
     const [communitySelected, setCommunitySelected] = useState(null);
     const [budgetAmount, setBudgetAmount] = useState("0");
     const [results, setResults] = useState([]);
-
-    const climateBtns = [
-        {
-            type: "hot",
-            select: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><path fill="currentColor" fill-rule="evenodd" d="M548 818v126c0 8.837-7.163 16-16 16h-40c-8.837 0-16-7.163-16-16V818q23.768 2.464 36 2.464T548 818m205.251-115.66l89.096 89.095c6.248 6.248 6.248 16.38 0 22.627l-28.285 28.285c-6.248 6.248-16.379 6.248-22.627 0L702.34 753.25q18.548-15.064 27.198-23.713q8.649-8.65 23.713-27.198m-482.502 0q15.064 18.548 23.713 27.198q8.65 8.649 27.198 23.713l-89.095 89.096c-6.248 6.248-16.38 6.248-22.627 0l-28.285-28.285c-6.248-6.248-6.248-16.379 0-22.627zM512 278c129.235 0 234 104.765 234 234S641.235 746 512 746S278 641.235 278 512s104.765-234 234-234M206 476q-2.464 23.768-2.464 36T206 548H80c-8.837 0-16-7.163-16-16v-40c0-8.837 7.163-16 16-16zm738 0c8.837 0 16 7.163 16 16v40c0 8.837-7.163 16-16 16H818q2.464-23.768 2.464-36T818 476ZM814.062 180.653l28.285 28.285c6.248 6.248 6.248 16.379 0 22.627L753.25 320.66q-15.064-18.548-23.713-27.198q-8.65-8.649-27.198-23.713l89.095-89.096c6.248-6.248 16.38-6.248 22.627 0m-581.497 0l89.095 89.096q-18.548 15.064-27.198 23.713q-8.649 8.65-23.713 27.198l-89.096-89.095c-6.248-6.248-6.248-16.38 0-22.627l28.285-28.285c6.248-6.248 16.379-6.248 22.627 0M532 64c8.837 0 16 7.163 16 16v126q-23.768-2.464-36-2.464T476 206V80c0-8.837 7.163-16 16-16z"/></svg>,
-            deselect: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1024 1024"><path fill="currentColor" fill-rule="evenodd" d="M548 818v126c0 8.837-7.163 16-16 16h-40c-8.837 0-16-7.163-16-16V818q23.768 2.464 36 2.464T548 818m205.251-115.66l89.096 89.095c6.248 6.248 6.248 16.38 0 22.627l-28.285 28.285c-6.248 6.248-16.379 6.248-22.627 0L702.34 753.25q18.548-15.064 27.198-23.713q8.649-8.65 23.713-27.198m-482.502 0q15.064 18.548 23.713 27.198q8.65 8.649 27.198 23.713l-89.095 89.096c-6.248 6.248-16.38 6.248-22.627 0l-28.285-28.285c-6.248-6.248-6.248-16.379 0-22.627zM512 278c129.235 0 234 104.765 234 234S641.235 746 512 746S278 641.235 278 512s104.765-234 234-234m0 72c-89.47 0-162 72.53-162 162s72.53 162 162 162s162-72.53 162-162s-72.53-162-162-162M206 476q-2.464 23.768-2.464 36T206 548H80c-8.837 0-16-7.163-16-16v-40c0-8.837 7.163-16 16-16zm738 0c8.837 0 16 7.163 16 16v40c0 8.837-7.163 16-16 16H818q2.464-23.768 2.464-36T818 476ZM814.062 180.653l28.285 28.285c6.248 6.248 6.248 16.379 0 22.627L753.25 320.66q-15.064-18.548-23.713-27.198q-8.65-8.649-27.198-23.713l89.095-89.096c6.248-6.248 16.38-6.248 22.627 0m-581.497 0l89.095 89.096q-18.548 15.064-27.198 23.713q-8.649 8.65-23.713 27.198l-89.096-89.095c-6.248-6.248-6.248-16.38 0-22.627l28.285-28.285c6.248-6.248 16.379-6.248 22.627 0M532 64c8.837 0 16 7.163 16 16v126q-23.768-2.464-36-2.464T476 206V80c0-8.837 7.163-16 16-16z"/></svg>,
-        },
-        {
-            type: "cold",
-            select: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="m17.75 21.16l-2.75-3L16.16 17l1.59 1.59L21.34 15l1.16 1.41zM12 18c0-1.54.59-2.94 1.54-4l-1.54.89l-2.5-1.45v-2.88L12 9.11l2.5 1.45v2.57a6 6 0 0 1 1.96-.92v-1.65l2-1.13l2.33.62l.52-1.93l-1.77-.47l.46-1.77l-1.93-.52l-.62 2.33l-2 1.13L13 7.38V5.12l1.71-1.71L13.29 2L12 3.29L10.71 2L9.29 3.41L11 5.12v2.26L8.5 8.82l-2-1.13l-.58-2.33L4 5.88l.47 1.77l-1.77.47l.52 1.93l2.33-.62l2 1.13v2.89l-2 1.13l-2.33-.62l-.52 1.93l1.77.47L4 18.12l1.93.52l.62-2.33l2-1.13L11 16.62v2.26l-1.71 1.71L10.71 22L12 20.71L13.29 22l.13-.13A5.94 5.94 0 0 1 12 18"/></svg>,
-            deselect: <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 24 24"><path fill="currentColor" d="m20.79 13.95l-2.33.62l-2-1.13v-2.88l2-1.13l2.33.62l.52-1.93l-1.77-.47l.46-1.77l-1.93-.52l-.62 2.33l-2 1.13L13 7.38V5.12l1.71-1.71L13.29 2L12 3.29L10.71 2L9.29 3.41L11 5.12v2.26L8.5 8.82l-2-1.13l-.58-2.33L4 5.88l.47 1.77l-1.77.47l.52 1.93l2.33-.62l2 1.13v2.89l-2 1.13l-2.33-.62l-.52 1.93l1.77.47L4 18.12l1.93.52l.62-2.33l2-1.13L11 16.62v2.26l-1.71 1.71L10.71 22L12 20.71L13.29 22l1.41-1.41l-1.7-1.71v-2.26l2.5-1.45l2 1.13l.62 2.33l1.88-.51l-.47-1.77l1.77-.47zM9.5 10.56L12 9.11l2.5 1.45v2.88L12 14.89l-2.5-1.45z"/></svg>,
-        },
-    ]
+    const [resultsShown, setResultsShown] = useState(false);
 
     const communityBtns = [
         {
@@ -37,33 +24,32 @@ export const TravelRecContainer = () => {
 
     const recommend = async () => {
         try {
-            const response = await fetch(`http://localhost:8000/recommend/${climateSelected}/${communitySelected}/${budgetAmount}`);
+            const response = await fetch(`http://localhost:8000/recommend/${communitySelected}/${budgetAmount}`);
             const result = await response.json();
             setResults(result)
         } catch (error: any) {
             setResults(error.message)
+        } finally {
+            setResultsShown(true)
         }
     }
 
     return (
-        <div className='flex justify-center items-center flex-col'>
-            <h1 className='text-3xl'>Travel Recommendation</h1>
-            <div className='mt-5 flex gap-10'>
-                <div className='flex flex-col justify-center items-center'>
-                    <p className='text-2xl'>Climate</p>
-                    <TravelButtons btns={climateBtns} sendSelected={setClimateSelected}/>
-                </div>
-                <div className='flex flex-col justify-center items-center'>
+        <div className='mt-10 flex justify-center items-center flex-col bg-sky-100 p-20 rounded-xl shadow-lg font-[Roboto]'>
+            <h1 className='text-3xl font-medium'>Your Preferences</h1>
+            <div className='mt-5 flex gap-7 items-center'>
+                <div className='flex flex-col justify-center items-center bg-indigo-200 p-3 rounded-3xl shadow-md'>
                     <p className='text-2xl'>Community</p>
                     <TravelButtons btns={communityBtns} sendSelected={setCommunitySelected}/>
                 </div>
-                <div className='flex flex-col justify-between'>
+                <div className='flex flex-col gap-3 bg-indigo-200 p-3 rounded-3xl shadow-md'>
                     <p className='text-2xl'>Budget</p>
                         <CurrencyInput
-                        className='w-30 border-1 p-1 mb-4'
+                        className='w-30 border-2 border-indigo-600 p-1 mb-4 rounded-lg'
                         id="input-example"
                         name="input-name"
                         prefix="$"
+                        placeholder="$0.00"
                         decimalsLimit={2}
                         onValueChange={(value) => {
                             if (value !== undefined) {
@@ -72,9 +58,15 @@ export const TravelRecContainer = () => {
                         }}
                         />
                 </div>
-                <button className='self-end mb-4 border-1 rounded-xl px-8 h-9' onClick={recommend}>Search</button>
+                <button className='self-end mb-4 border-2 border-emerald-400 bg-emerald-200 text-green-950 rounded-xl px-4 h-10 shadow-md font-medium' onClick={recommend}>Go</button>
             </div>
-            <TravelRecResults results={results}/>
+            {
+                resultsShown ? (
+                    <TravelRecResults results={results} setResultsShown={setResultsShown}/>
+                ) : (
+                    <></>
+                )
+            }
         </div>
     )
 }

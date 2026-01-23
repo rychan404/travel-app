@@ -19,8 +19,8 @@ app.add_middleware(
     allow_headers=["*"]
 )
 
-@app.get("/recommend/{climate}/{community}/{budget}")
-async def recommend(climate: str, community: str, budget: int):
+@app.get("/recommend/{community}/{budget}")
+async def recommend(community: str, budget: int):
     # Read the CSV files
     worldcities = pd.read_csv('worldcities.csv')
     cost_of_living = pd.read_csv('cost-of-living.csv')
@@ -75,71 +75,3 @@ async def recommend(climate: str, community: str, budget: int):
     result = filtered_worldcities.to_json(orient='records', indent=4)
     
     return Response(content=result, media_type="application/json")
-    """
-    df = pd.read_csv('worldcities.csv')
-
-    # Filter by population (community)
-    latsList = []
-    lngsList = []
-    for _, row in df.iterrows():
-        if (community == "urban" and row["population"] >= 20000) or (community == "rural" and row["population"] < 20000):
-            latsList.append(str(row['lat']))
-            lngsList.append(str(row['lng']))
-
-    
-    url = "https://cost-of-living-and-prices.p.rapidapi.com/prices"
-
-    querystring = {"city_name":"Bratislava","country_name":"Slovakia"}
-
-    headers = {
-        "x-rapidapi-key": "",
-        "x-rapidapi-host": "cost-of-living-and-prices.p.rapidapi.com"
-    }
-
-    response = requests.get(url, headers=headers, params=querystring)
-
-    print(len(latsList))
-    print(len(lngsList))
-
-    lats = ",".join(latsList)
-    lngs = ",".join(lngsList)
-
-    #url = f"https://api.open-meteo.com/v1/forecast/?latitude=60.2,32.3&longitude=12.2,-12.2&current=temperature_2m"
-    #response = requests.get(url)
-    """
-
-@app.get("/flights/")
-async def get_flight_results():
-    def best_flight_list(FlightData):
-        data = [FlightData]
-        shortData = []
-        for i in range(5):
-            shortData[i] = data[i]
-        return shortData
-
-    result = get_flights(
-        flight_data=[
-            FlightData(date="2026-01-20", from_airport="JFK", to_airport="CDG")
-        ],
-        trip="one-way",
-        seat="economy",
-        passengers=Passengers(adults=1, children=0, infants_in_seat=0, infants_on_lap=0),
-        fetch_mode="fallback",
-    )
-    def get_price(FlightData):
-        return FlightData.price
-    #result.flights.sort(key=get_price)
-
-    def shorten_flights(List):
-        shortFlight = []
-        for i in range(5):
-            shortFlight.append(List[i])
-        return shortFlight
-    
-    result.flights = shorten_flights(result.flights)
-    #print(result.flights[0])
-    return result
-
-@app.get("/")
-async def root():
-    return {"message": "Travel App API - Use /flights endpoint to get flight results"}

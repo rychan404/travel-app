@@ -1,12 +1,22 @@
 
-export const TravelRecResults = ({ results }: any) => {
+export const TravelRecResults = ({ results, setResultsShown }: any) => {
+    
+    setResultsShown(true)
+
     return (
-        <div className='bg-red-500 w-2xl'>
-            {
-                results.map((location: any, id: any) => (
-                    <h1 key={id}>{location.city_ascii}, {location.country}</h1>
-                ))
-            }
-        </div>
+        <>
+            <h1 className='text-2xl mt-10'>Travel to...</h1>
+            <div className='mt-5 bg-amber-200 w-[50ch] max-h-[10rem] p-5 overflow-auto rounded-md shadow-md'>
+                {
+                    results.length ? (
+                        results.map((location: any, id: any) => (
+                            <p className='text-xl' key={id}>{location.city_ascii}, {location.country}</p>
+                        ))
+                    ) : (
+                        <p className='text-xl'>No Results</p>
+                    )
+                }
+            </div>
+        </>
     )
 }
