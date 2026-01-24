@@ -4,6 +4,9 @@ from fastapi.middleware.cors import CORSMiddleware
 from fastapi.responses import Response
 import requests
 import pandas as pd
+from bs4 import BeautifulSoup
+import wikipediaapi
+import re
 
 app = FastAPI()
 
@@ -20,7 +23,7 @@ app.add_middleware(
 )
 
 @app.get("/recommend/{community}/{budget}")
-async def recommend(community: str, budget: int):
+async def recommend(community: str, budget: float):
     # Read the CSV files
     worldcities = pd.read_csv('worldcities.csv')
     cost_of_living = pd.read_csv('cost-of-living.csv')
@@ -75,3 +78,40 @@ async def recommend(community: str, budget: int):
     result = filtered_worldcities.to_json(orient='records', indent=4)
     
     return Response(content=result, media_type="application/json")
+
+@app.get("/locationDetails/{location}")
+async def getLocationDetails(location: str):
+    wikipedia = wikipediaapi.Wikipedia(user_agent='MyProjectName (merlin@example.com)', language='en')
+
+    page = wikipedia.page(location)
+
+    if page.exists():
+        summary = page.summary.strip()
+    
+        url = 'https://en.wikipedia.org/w/api.php'
+        params = {
+            "action": "parse",
+            "page": location,
+            "format": "json"
+        }
+
+        headers = {
+            "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36"
+        }
+
+        response = requests.get(url, params=params, headers=headers)
+        data = response.json()
+        html_data = data["parse"]["text"]["*"]
+        soup = BeautifulSoup(html_data, 'html.parser')
+
+        image_url = soup.find('img').attrs['src']
+        image_url = 'https:' + re.sub(r'\d+px', '500px', image_url)
+    else:
+        summary = "No information found."
+        image_url = ""
+
+    return { 
+        "name": location,
+        "description": summary, 
+        "img_url": image_url
+    }

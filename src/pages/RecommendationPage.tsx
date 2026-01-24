@@ -1,5 +1,4 @@
 import { NavBar } from '../components/NavBar';
-import { PlusMinusInput } from '../components/PlusMinusInput';
 import { TravelRecContainer } from '../components/TravelRecContainer';
 
 export const RecommendationPage = () => {

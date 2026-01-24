@@ -1,3 +1,4 @@
+import { Link } from "react-router"
 
 export const TravelRecResults = ({ results, setResultsShown }: any) => {
     
@@ -10,7 +11,7 @@ export const TravelRecResults = ({ results, setResultsShown }: any) => {
                 {
                     results.length ? (
                         results.map((location: any, id: any) => (
-                            <p className='text-xl' key={id}>{location.city_ascii}, {location.country}</p>
+                            <p className='text-xl' key={id}><Link to={`/location/${location.city_ascii}`} state={{ name: location.city_ascii} }>{location.city_ascii}, {location.country}</Link></p>
                         ))
                     ) : (
                         <p className='text-xl'>No Results</p>

@@ -1,4 +1,2461 @@
 city_ascii,country
+Tokyo,Japan
+Jakarta,Indonesia
+Delhi,India
+Guangzhou,China
+Mumbai,India
+Manila,Philippines
+Shanghai,China
+Sao Paulo,Brazil
+Mexico City,Mexico
+Kolkata,India
+Cairo,Egypt
+Karachi,Pakistan
+Dhaka,Bangladesh
+New York,United States
+Beijing,China
+Bangkok,Thailand
+Shenzhen,China
+Moscow,Russia
+Buenos Aires,Argentina
+Lagos,Nigeria
+Bangalore,India
+Ho Chi Minh City,Vietnam
+Osaka,Japan
+Chengdu,China
+Istanbul,Turkey
+Tehran,Iran
+Rio de Janeiro,Brazil
+Chennai,India
+Xi'an,China
+Lahore,Pakistan
+Chongqing,China
+Los Angeles,United States
+London,United Kingdom
+Paris,France
+Dongguan,China
+Hyderabad,India
+Tianjin,China
+Lima,Peru
+Wuhan,China
+Hangzhou,China
+Nagoya,Japan
+Luanda,Angola
+Foshan,China
+Kuala Lumpur,Malaysia
+Tongshan,China
+Hanoi,Vietnam
+Chicago,United States
+Nanjing,China
+Pune,India
+Bogota,Colombia
+Ahmedabad,India
+Shenyang,China
+Dar es Salaam,Tanzania
+Khartoum,Sudan
+Johannesburg,South Africa
+Hong Kong,Hong Kong
+Cangzhou,China
+Riyadh,Saudi Arabia
+Santiago,Chile
+Surabaya,Indonesia
+Surat,India
+Madrid,Spain
+Baghdad,Iraq
+Miami,United States
+Houston,United States
+Singapore,Singapore
+Dalian,China
+Ankara,Turkey
+Dallas,United States
+Qingdao,China
+Douala,Cameroon
+Addis Ababa,Ethiopia
+Philadelphia,United States
+Toronto,Canada
+Zhengzhou,China
+Jinan,China
+Giza,Egypt
+Nairobi,Kenya
+Guadalajara,Mexico
+Belo Horizonte,Brazil
+Suzhou,China
+Monterrey,Mexico
+Atlanta,United States
+Washington,United States
+Melbourne,Australia
+Guilin,China
+Alexandria,Egypt
+Sydney,Australia
+Barcelona,Spain
+Cape Town,South Africa
+Jeddah,Saudi Arabia
+Berlin,Germany
+Jiangmen,China
+Kunming,China
+Changchun,China
+Boston,United States
+Suzhou,China
+Hefei,China
+Fortaleza,Brazil
+Ningbo,China
+Phoenix,United States
+Amman,Jordan
+Kumasi,Ghana
+Taiyuan,China
+Harbin,China
+Abuja,Nigeria
+Yokohama,Japan
+Detroit,United States
+Xiamen,China
+Mashhad,Iran
+Montreal,Canada
+Fuzhou,China
+Medan,Indonesia
+Fuzhou,China
+Changzhou,China
+Nanchang,China
+Seattle,United States
+Ibadan,Nigeria
+Lucknow,India
+Dubai,United Arab Emirates
+Baojishi,China
+Wuxi,China
+Caracas,Venezuela
+Casablanca,Morocco
+Faisalabad,Pakistan
+Bursa,Turkey
+Tashkent,Uzbekistan
+Guayaquil,Ecuador
+Jaipur,India
+Ouagadougou,Burkina Faso
+Athens,Greece
+San Diego,United States
+Guatemala City,Guatemala
+Kuwait City,Kuwait
+Izmir,Turkey
+Quezon City,Philippines
+Kyiv,Ukraine
+Zhongshan,China
+Minneapolis,United States
+Tampa,United States
+Taichung,Taiwan
+Cali,Colombia
+Pretoria,South Africa
+Malang,Indonesia
+Stuttgart,Germany
+Rome,Italy
+Kaohsiung,Taiwan
+Brooklyn,United States
+Brisbane,Australia
+Denver,United States
+Maracaibo,Venezuela
+Munich,Germany
+Birmingham,United Kingdom
+Valencia,Venezuela
+Damascus,Syria
+Medellin,Colombia
+Hamburg,Germany
+Taipei,Taiwan
+Toluca,Mexico
+Yaounde,Cameroon
+Zhuhai,China
+Mecca,Saudi Arabia
+Vancouver,Canada
+Beirut,Lebanon
+Salvador,Brazil
+Bucharest,Romania
+Nagpur,India
+Queens,United States
+Bekasi,Indonesia
+Ghaziabad,India
+Luoyang,China
+Algiers,Algeria
+Depok,Indonesia
+Konya,Turkey
+Haiphong,Vietnam
+Baku,Azerbaijan
+Riverside,United States
+Fukuoka,Japan
+Nantong,China
+Las Vegas,United States
+Haikou,China
+Tangerang,Indonesia
+Almaty,Kazakhstan
+Vienna,Austria
+Esfahan,Iran
+Baltimore,United States
+Perth,Australia
+Gaziantep,Turkey
+Phnom Penh,Cambodia
+Mogadishu,Somalia
+Cordoba,Argentina
+Rawalpindi,Pakistan
+Havana,Cuba
+Portland,United States
+Vadodara,India
+Rajkot,India
+Vishakhapatnam,India
+Warsaw,Poland
+Gujranwala,Pakistan
+Aleppo,Syria
+Tijuana,Mexico
+Indore,India
+Minsk,Belarus
+Karaj,Iran
+Peshawar,Pakistan
+Sacramento,United States
+Sapporo,Japan
+Tilburg,Netherlands
+Austin,United States
+Orlando,United States
+Davao,Philippines
+Thane,India
+Multan,Pakistan
+Port Harcourt,Nigeria
+Fushun,China
+Tainan,Taiwan
+Pingliang,China
+Bhopal,India
+Mosul,Iraq
+Diyarbakir,Turkey
+Benin City,Nigeria
+Curitiba,Brazil
+San Jose,United States
+Adana,Turkey
+Quito,Ecuador
+Lusaka,Zambia
+Indianapolis,United States
+Hyderabad City,Pakistan
+Maracay,Venezuela
+Montevideo,Uruguay
+Pittsburgh,United States
+Cincinnati,United States
+Manhattan,United States
+Budapest,Hungary
+Patna,India
+Kampala,Uganda
+Cleveland,United States
+Conakry,Guinea
+Caloocan City,Philippines
+Ecatepec,Mexico
+Novosibirsk,Russia
+Bilaspur,India
+Semarang,Indonesia
+Ludhiana,India
+Valencia,Spain
+Leon de los Aldama,Mexico
+Columbus,United States
+Puebla,Mexico
+Bien Hoa,Vietnam
+Shiraz,Iran
+Dushanbe,Tajikistan
+Madurai,India
+Harare,Zimbabwe
+Tabriz,Iran
+Jamshedpur,India
+Kawasaki,Japan
+Kobe,Japan
+Lome,Togo
+Niamey,Niger
+Recife,Brazil
+Nasik,India
+Abu Dhabi,United Arab Emirates
+Amsterdam,Netherlands
+Zapopan,Mexico
+Bronx,United States
+Auckland,New Zealand
+Yekaterinburg,Russia
+Kyoto,Japan
+Dakar,Senegal
+Charlotte,United States
+Kayseri,Turkey
+Virginia Beach,United States
+Muscat,Oman
+Kharkiv,Ukraine
+Medina,Saudi Arabia
+Faridabad,India
+Sofia,Bulgaria
+Ulaanbaatar,Mongolia
+Adelaide,Australia
+Copenhagen,Denmark
+Helsinki,Finland
+Samsun,Turkey
+Milan,Italy
+Antalya,Turkey
+Makassar,Indonesia
+Barranquilla,Colombia
+Al Basrah,Iraq
+Saitama,Japan
+Guarulhos,Brazil
+Juarez,Mexico
+Calgary,Canada
+Meerut,India
+Jacksonville,United States
+Milwaukee,United States
+Belem,Brazil
+Rosario,Argentina
+Tangier,Morocco
+Antananarivo,Madagascar
+Providence,United States
+Jabalpur,India
+Kazan,Russia
+Brussels,Belgium
+Kalyan,India
+Campinas,Brazil
+Nizhniy Novgorod,Russia
+Qom,Iran
+Mombasa,Kenya
+Hargeysa,Somalia
+Varanasi,India
+Hiroshima,Japan
+Belgrade,Serbia
+Doha,Qatar
+Shymkent,Kazakhstan
+Tripoli,Libya
+Nashville,United States
+Chelyabinsk,Russia
+Aurangabad,India
+Salt Lake City,United States
+Bandar Lampung,Indonesia
+Aba,Nigeria
+Tegucigalpa,Honduras
+Kigali,Rwanda
+Samara,Russia
+Edmonton,Canada
+Raleigh,United States
+Bishkek,Kyrgyzstan
+Krasnodar,Russia
+Maputo,Mozambique
+Amritsar,India
+Ufa,Russia
+Santo Domingo,Dominican Republic
+Tbilisi,Georgia
+Guwahati,India
+Fes,Morocco
+Yerevan,Armenia
+Mwanza,Tanzania
+Omsk,Russia
+Mexicali,Mexico
+Sevilla,Spain
+Goiania,Brazil
+Krasnoyarsk,Russia
+Cologne,Germany
+Richmond,United States
+Nouakchott,Mauritania
+Ranchi,India
+Ottawa,Canada
+Sendai,Japan
+Chandigarh,India
+Voronezh,Russia
+Managua,Nicaragua
+Mersin,Turkey
+Jodhpur,India
+Memphis,United States
+Sanya,China
+Ashgabat,Turkmenistan
+Perm,Russia
+Monrovia,Liberia
+Islamabad,Pakistan
+Odesa,Ukraine
+Raipur,India
+Namangan,Uzbekistan
+Arequipa,Peru
+Volgograd,Russia
+Morelia,Mexico
+Kota,India
+Quetta,Pakistan
+Oklahoma City,United States
+Bareilly,India
+Stockholm,Sweden
+Bordeaux,France
+Lilongwe,Malawi
+Pekanbaru,Indonesia
+Bogor,Indonesia
+Ciudad Guayana,Venezuela
+Hartford,United States
+Dnipro,Ukraine
+Narayanganj,Bangladesh
+Malaga,Spain
+Marrakech,Morocco
+Louisville,United States
+Cebu City,Philippines
+Asmara,Eritrea
+Coimbatore,India
+Maceio,Brazil
+Solapur,India
+Freetown,Sierra Leone
+Buffalo,United States
+Vientiane,Laos
+Hubli,India
+Fort Worth,United States
+Setagaya,Japan
+Jerusalem,Israel
+Trujillo,Peru
+Aguascalientes,Mexico
+Khulna,Bangladesh
+Chihuahua,Mexico
+Bridgeport,United States
+Mysore,India
+New Orleans,United States
+Cartagena,Colombia
+Naples,Italy
+Naucalpan de Juarez,Mexico
+La Plata,Argentina
+Ad Dammam,Saudi Arabia
+Quzhou,China
+Donetsk,Ukraine
+Sao Goncalo,Brazil
+Bucaramanga,Colombia
+Merida,Mexico
+Moradabad,India
+Cancun,Mexico
+Panama City,Panama
+Tucson,United States
+As Sulaymaniyah,Iraq
+Klang,Malaysia
+Tiruppur,India
+Marseille,France
+Gurgaon,India
+Jalandhar,India
+Lhasa,China
+Ipoh,Malaysia
+Saltillo,Mexico
+El Paso,United States
+Tyumen,Russia
+Cochabamba,Bolivia
+Portsmouth,United Kingdom
+Southampton,United Kingdom
+Hermosillo,Mexico
+Ilorin,Nigeria
+Erbil,Iraq
+Kathmandu,Nepal
+Turin,Italy
+Durban,South Africa
+Saratov,Russia
+Bhubaneshwar,India
+Joao Pessoa,Brazil
+Omaha,United States
+Eskisehir,Turkey
+Sao Bernardo do Campo,Brazil
+McAllen,United States
+Culiacan,Mexico
+Cucuta,Colombia
+Pasig City,Philippines
+Thessaloniki,Greece
+Blantyre,Malawi
+Libreville,Gabon
+Queretaro,Mexico
+Wuxi,China
+Niigata,Japan
+Hempstead,United States
+Hamamatsu,Japan
+Birmingham,United States
+Frankfurt,Germany
+Bilbao,Spain
+San Luis Potosi,Mexico
+Khujand,Tajikistan
+Erzurum,Turkey
+Albuquerque,United States
+Zagreb,Croatia
+Dodoma,Tanzania
+Patiala,India
+Bahawalpur,Pakistan
+Winnipeg,Canada
+Colombo,Sri Lanka
+Natal,Brazil
+Gdansk,Poland
+Santo Andre,Brazil
+Andijon,Uzbekistan
+Thiruvananthapuram,India
+Tulsa,United States
+Kerman,Iran
+Quebec City,Canada
+Osogbo,Nigeria
+Hamilton,Canada
+Cagayan de Oro,Philippines
+Manama,Bahrain
+Charleston,United States
+Durgapur,India
+An Najaf,Iraq
+Fresno,United States
+Sorocaba,Brazil
+Okayama,Japan
+Concepcion,Chile
+San Pedro Sula,Honduras
+Mississauga,Canada
+Lviv,Ukraine
+Zaporizhzhia,Ukraine
+Bhiwandi,India
+Oslo,Norway
+Bristol,United Kingdom
+Warangal,India
+Dasmarinas,Philippines
+Shiliguri,India
+Latakia,Syria
+General Santos,Philippines
+Rochester,United States
+Salem,India
+Karbala',Iraq
+City of Paranaque,Philippines
+Shizuoka,Japan
+Mar del Plata,Argentina
+Cotonou,Benin
+Kochi,India
+Gothenburg,Sweden
+Acapulco de Juarez,Mexico
+Gorakhpur,India
+Wroclaw,Poland
+Murcia,Spain
+Lodz,Poland
+Denpasar,Indonesia
+Guntur,India
+Tolyatti,Russia
+Dayton,United States
+Aracaju,Brazil
+Rotterdam,Netherlands
+Villavicencio,Colombia
+Campo Grande,Brazil
+Makhachkala,Russia
+Al Hufuf,Saudi Arabia
+Sargodha,Pakistan
+Brampton,Canada
+Cape Coral,United States
+Durango,Mexico
+Osasco,Brazil
+San Jose del Monte,Philippines
+Denizli,Turkey
+Bhavnagar,India
+Chisinau,Moldova
+Petaling Jaya,Malaysia
+Colorado Springs,United States
+Tallinn,Estonia
+Benghazi,Libya
+Dusseldorf,Germany
+Palermo,Italy
+Baton Rouge,United States
+Makati City,Philippines
+Glasgow,United Kingdom
+Al Qatif,Saudi Arabia
+Bhilai,India
+Mangalore,India
+Irkutsk,Russia
+Ogden,United States
+Barnaul,Russia
+Leipzig,Germany
+Izhevsk,Russia
+Knoxville,United States
+Arusha,Tanzania
+Khabarovsk,Russia
+Oujda-Angad,Morocco
+Ulyanovsk,Russia
+Grand Rapids,United States
+Kuantan,Malaysia
+Gold Coast,Australia
+Las Pinas City,Philippines
+Cuttack,India
+Riga,Latvia
+Columbia,United States
+Djibouti,Djibouti
+Albany,United States
+Bacolod,Philippines
+Bamenda,Cameroon
+Haifa,Israel
+Tunis,Tunisia
+Tumkur,India
+Sanliurfa,Turkey
+Dortmund,Germany
+Kagoshima,Japan
+Irapuato,Mexico
+Dublin,Ireland
+Sialkot City,Pakistan
+Vladivostok,Russia
+Pereira,Colombia
+Reynosa,Mexico
+Essen,Germany
+Shah Alam,Malaysia
+Suginami-ku,Japan
+Vilnius,Lithuania
+Kingston,Jamaica
+Nha Trang,Vietnam
+Bakersfield,United States
+Dehra Dun,India
+Bremen,Germany
+Iloilo,Philippines
+Rabat,Morocco
+Kahramanmaras,Turkey
+Irbid,Jordan
+Surrey,Canada
+Yaroslavl,Russia
+Dresden,Germany
+New Haven,United States
+Antwerp,Belgium
+Bello,Colombia
+Kolhapur,India
+Des Moines,United States
+Genoa,Italy
+Ensenada,Mexico
+Hamadan,Iran
+Chiclayo,Peru
+Surakarta,Indonesia
+Braunschweig,Germany
+Nanded,India
+Amravati,India
+Lisbon,Portugal
+Hannover,Germany
+Manchester,United Kingdom
+Nellore,India
+Poznan,Poland
+Tomsk,Russia
+Kemerovo,Russia
+Naberezhnyye Chelny,Russia
+Valledupar,Colombia
+Muntinlupa City,Philippines
+Heroica Matamoros,Mexico
+Juiz de Fora,Brazil
+Sao Jose dos Campos,Brazil
+Akron,United States
+Agadir,Morocco
+Orenburg,Russia
+Leeds,United Kingdom
+Dispur,India
+Novokuznetsk,Russia
+Balashikha,Russia
+Yazd,Iran
+Ardabil,Iran
+Himeji,Japan
+Nuremberg,Germany
+Concord,United States
+Van,Turkey
+Port Said,Egypt
+Kitchener,Canada
+Agartala,India
+Arak,Iran
+Lyon,France
+Ryazan,Russia
+Meknes,Morocco
+Utsunomiya,Japan
+Sheffield,United Kingdom
+Suez,Egypt
+Santa Marta,Colombia
+Ujjain,India
+Samarkand,Uzbekistan
+Liverpool,United Kingdom
+Toulouse,France
+Kenitra,Morocco
+Mesa,United States
+Ribeirao Preto,Brazil
+Duisburg,Germany
+Jammu,India
+Wichita,United States
+Mazatlan,Mexico
+Harrisburg,United States
+Lapu-Lapu City,Philippines
+Johor Bahru,Malaysia
+Purnea,India
+Niteroi,Brazil
+Lipetsk,Russia
+Cheboksary,Russia
+Toledo,United States
+Accra,Ghana
+Kota Bharu,Malaysia
+`Ajman,United Arab Emirates
+Kaliningrad,Russia
+Edinburgh,United Kingdom
+Malatya,Turkey
+Cuiaba,Brazil
+Az Zarqa',Jordan
+Feira de Santana,Brazil
+Valletta,Malta
+Jamnagar,India
+Sylhet,Bangladesh
+Asuncion,Paraguay
+Bratislava,Slovakia
+Oita,Japan
+Worthing,United Kingdom
+Port St. Lucie,United States
+Piura,Peru
+Vila Velha,Brazil
+Kirov,Russia
+San Juan,Argentina
+Mykolaiv,Ukraine
+Tel Aviv-Yafo,Israel
+Little Rock,United States
+Buraydah,Saudi Arabia
+Tula,Russia
+Nakhon Ratchasima,Thailand
+Leicester,United Kingdom
+Angeles City,Philippines
+Kanazawa,Japan
+Manado,Indonesia
+Jalgaon,India
+Madison,United States
+Spokane,United States
+Long Beach,United States
+Marikina City,Philippines
+Ciudad General Escobedo,Mexico
+Reno,United States
+Manizales,Colombia
+Hsinchu,Taiwan
+Kota Kinabalu,Malaysia
+Udaipur,India
+Stavropol,Russia
+Boise,United States
+Zurich,Switzerland
+Constantine,Algeria
+Nam Dinh,Vietnam
+Rajshahi,Bangladesh
+Londrina,Brazil
+Sochi,Russia
+San Nicolas de los Garza,Mexico
+Kissimmee,United States
+Halifax,Canada
+Augusta,United States
+Springfield,United States
+Laval,Canada
+Oakland,United States
+Kursk,Russia
+Bandung,Indonesia
+Windhoek,Namibia
+Joinvile,Brazil
+Ismailia,Egypt
+Cusco,Peru
+Veracruz,Mexico
+Kashiwa,Japan
+Tepic,Mexico
+Mandaluyong City,Philippines
+Tver,Russia
+London,Canada
+Piracicaba,Brazil
+Tetouan,Morocco
+Yogyakarta,Indonesia
+Skopje,North Macedonia
+Seremban,Malaysia
+Santos,Brazil
+Tirana,Albania
+Takamatsu,Japan
+Stockton,United States
+Jhang City,Pakistan
+Khon Kaen,Thailand
+Durham,United States
+Chattanooga,United States
+Bhagalpur,India
+Maringa,Brazil
+Mataram,Indonesia
+Magnitogorsk,Russia
+Greenville,United States
+Lancaster,United States
+Syracuse,United States
+Gebze,Turkey
+Santa Fe,Argentina
+Nagasaki,Japan
+Qazvin,Iran
+Sonipat,India
+Jundiai,Brazil
+Pensacola,United States
+Oskemen,Kazakhstan
+Gifu,Japan
+Dera Ghazi Khan,Pakistan
+Szczecin,Poland
+Surgut,Russia
+Arlington,United States
+Al Jahra',Kuwait
+Ad Diwaniyah,Iraq
+Gujrat,Pakistan
+Aurora,United States
+Asyut,Egypt
+Bologna,Italy
+Aqtobe,Kazakhstan
+Elazig,Turkey
+Zanjan,Iran
+Manisa,Turkey
+Tarlac City,Philippines
+Nuevo Laredo,Mexico
+Christchurch,New Zealand
+Canberra,Australia
+Neiva,Colombia
+Huancayo,Peru
+Celaya,Mexico
+Rohtak,India
+Oxnard,United States
+Bryansk,Russia
+Butuan,Philippines
+Indio,United States
+Nagano,Japan
+Bochum,Germany
+Baguio City,Philippines
+Sivas,Turkey
+Victorville,United States
+Kocaeli,Turkey
+Warri,Nigeria
+Victoria,Canada
+Coventry,United Kingdom
+Trenton,United States
+Keelung,Taiwan
+Cuenca,Ecuador
+Hrodna,Belarus
+Florence,Italy
+Caxias do Sul,Brazil
+Malmo,Sweden
+Huntsville,United States
+Utrecht,Netherlands
+Wuppertal,Germany
+Alicante,Spain
+Taraz,Kazakhstan
+Vinnytsia,Ukraine
+Modesto,United States
+Caucaia,Brazil
+Pokhara,Nepal
+Nice,France
+Villahermosa,Mexico
+Osh,Kyrgyzstan
+Corrientes,Argentina
+Arkhangelsk,Russia
+Varna,Bulgaria
+Semey,Kazakhstan
+Praia Grande,Brazil
+Antofagasta,Chile
+Plovdiv,Bulgaria
+Honolulu,United States
+Greensboro,United States
+Fort Wayne,United States
+Belfast,United Kingdom
+Carapicuiba,Brazil
+Anaheim,United States
+Brest,Belarus
+Pavlodar,Kazakhstan
+Chon Buri,Thailand
+Florianopolis,Brazil
+Sfax,Tunisia
+Vung Tau,Vietnam
+Sumqayit,Azerbaijan
+Fort Collins,United States
+Islip,United States
+Cuernavaca,Mexico
+Markham,Canada
+Bielefeld,Germany
+Bydgoszcz,Poland
+Reading,United Kingdom
+Randburg,South Africa
+Oshawa,Canada
+Bonn,Germany
+Sambalpur,India
+Lublin,Poland
+Tampere,Finland
+Muzaffarpur,India
+Vina del Mar,Chile
+Salalah,Oman
+Maebashi,Japan
+Kaluga,Russia
+Jackson,United States
+Dahuk,Iraq
+Nicosia,Cyprus
+Ciudad Obregon,Mexico
+Phatthaya,Thailand
+Belgorod,Russia
+Bijapur,India
+Cabanatuan City,Philippines
+Salamanca,Mexico
+Roodepoort,South Africa
+Kuching,Malaysia
+Nantes,France
+Henderson,United States
+Cariacica,Brazil
+Mobile,United States
+Cordoba,Spain
+Mekele,Ethiopia
+Vaughan,Canada
+Munster,Germany
+Vitoria,Brazil
+Lexington,United States
+La Paz,Bolivia
+Saint-Denis,Reunion
+Puerto Plata,Dominican Republic
+Port Moresby,Papua New Guinea
+Mannheim,Germany
+Barueri,Brazil
+Savannah,United States
+Naha,Japan
+Bari,Italy
+Youngstown,United States
+Balikesir,Turkey
+Espoo,Finland
+Ann Arbor,United States
+Sousse,Tunisia
+Kingston upon Hull,United Kingdom
+Smolensk,Russia
+Yakutsk,Russia
+Catania,Italy
+Karlsruhe,Germany
+Ciudad del Este,Paraguay
+Ciudad Benito Juarez,Mexico
+Irvine,United States
+Nakuru,Kenya
+Newark,United States
+Montpellier,France
+Hisar,India
+Windsor,Canada
+Ciudad Victoria,Mexico
+Kaunas,Lithuania
+Playa del Carmen,Mexico
+Vila Nova de Gaia,Portugal
+Vladikavkaz,Russia
+Augsburg,Germany
+Az Zaqaziq,Egypt
+Bahia Blanca,Argentina
+Armenia,Colombia
+Popayan,Colombia
+Valladolid,Spain
+Sucre,Bolivia
+Cherepovets,Russia
+Resistencia,Argentina
+Pachuca,Mexico
+Concord,United States
+Tampico,Mexico
+Malabo,Equatorial Guinea
+Winter Haven,United States
+Valparaiso,Chile
+Asheville,United States
+Bialystok,Poland
+Vigo,Spain
+Trabzon,Turkey
+Aizawl,India
+Bradford,United Kingdom
+Lincoln,United States
+Graz,Austria
+Strasbourg,France
+Flint,United States
+Groznyy,Russia
+Bergen,Norway
+Gatineau,Canada
+Lakeland,United States
+Batna,Algeria
+Aarhus,Denmark
+Nagercoil,India
+Tambov,Russia
+Jersey City,United States
+Nottingham,United Kingdom
+Anchorage,United States
+Springfield,United States
+Setif,Algeria
+Tirupati,India
+Plano,United States
+Cluj-Napoca,Romania
+Katowice,Poland
+Wiesbaden,Germany
+Bolton,United Kingdom
+Ljubljana,Slovenia
+Lubbock,United States
+Chernihiv,Ukraine
+Temuco,Chile
+Ica,Peru
+Sakarya,Turkey
+Bukhara,Uzbekistan
+Poltava,Ukraine
+Petrozavodsk,Russia
+Kherson,Ukraine
+Lucena,Philippines
+Petropolis,Brazil
+Chandler,United States
+Pematangsiantar,Indonesia
+Sunderland,United Kingdom
+Dire Dawa,Ethiopia
+South Bend,United States
+Yoshkar-Ola,Russia
+Khmelnytskyi,Ukraine
+Rockford,United States
+Ponta Grossa,Brazil
+Eugene,United States
+Salem,United States
+Iasi,Romania
+Cherkasy,Ukraine
+Monchengladbach,Germany
+Parana,Argentina
+Gijon,Spain
+Tarija,Bolivia
+Shibin al Kawm,Egypt
+Plymouth,United Kingdom
+Kostroma,Russia
+Murmansk,Russia
+Anantapur,India
+Adiyaman,Turkey
+Saskatoon,Canada
+Gelsenkirchen,Germany
+Nalchik,Russia
+Gent,Belgium
+Antsirabe,Madagascar
+Imphal,India
+Milton Keynes,United Kingdom
+Chernivtsi,Ukraine
+Itajai,Brazil
+Kutahya,Turkey
+Constanta,Romania
+Chiayi,Taiwan
+Nawabshah,Pakistan
+Peoria,United States
+Novorossiysk,Russia
+Wollongong,Australia
+Zhytomyr,Ukraine
+Tallahassee,United States
+Novi Sad,Serbia
+Olongapo,Philippines
+Kennewick,United States
+Misratah,Libya
+Aydin,Turkey
+Manta,Ecuador
+Vitoria-Gasteiz,Spain
+Columbus,United States
+Sumy,Ukraine
+Indaiatuba,Brazil
+Bloemfontein,South Africa
+Laredo,United States
+Verona,Italy
+Derby,United Kingdom
+Westminster,United Kingdom
+Kuala Terengganu,Malaysia
+Irving,United States
+Fort-de-France,Martinique
+Caruaru,Brazil
+Tanta,Egypt
+Aachen,Germany
+Osmaniye,Turkey
+Uberaba,Brazil
+Afyonkarahisar,Turkey
+Iskenderun,Turkey
+Montgomery,United States
+Wolverhampton,United Kingdom
+Timisoara,Romania
+Chemnitz,Germany
+Venice,Italy
+Glendale,United States
+Al Bayda',Libya
+Rishon LeZiyyon,Israel
+Osorno,Chile
+Campeche,Mexico
+A Coruna,Spain
+Burnaby,Canada
+Kiel,Germany
+Vantaa,Finland
+Nashua,United States
+Sahiwal,Pakistan
+Aksaray,Turkey
+Governador Valadares,Brazil
+Gyor,Hungary
+Garland,United States
+Gdynia,Poland
+Barnsley,United Kingdom
+Stoke-on-Trent,United Kingdom
+Rock Hill,United States
+Puducherry,India
+Jessore,Bangladesh
+Rivne,Ukraine
+Eindhoven,Netherlands
+Elche,Spain
+Biratnagar,Nepal
+St. Catharines,Canada
+Araraquara,Brazil
+Halle,Germany
+Scottsdale,United States
+Taganrog,Russia
+Paramaribo,Suriname
+Marilia,Brazil
+Magdeburg,Germany
+Lille,France
+Ivano-Frankivsk,Ukraine
+Brasov,Romania
+Freiburg im Breisgau,Germany
+Centurion,South Africa
+Petah Tiqwa,Israel
+Al Minya,Egypt
+Gaborone,Botswana
+Arlington,United States
+Limassol,Cyprus
+Norfolk,United States
+Georgetown,Guyana
+Appleton,United States
+Miri,Malaysia
+Craiova,Romania
+Groningen,Netherlands
+Granada,Spain
+Porto,Portugal
+Gulfport,United States
+Lafayette,United States
+Rancagua,Chile
+Ordu,Turkey
+Kosice,Slovakia
+Envigado,Colombia
+Bremerton,United States
+Fremont,United States
+Mage,Brazil
+Tripoli,Lebanon
+Rennes,France
+Ipatinga,Brazil
+Green Bay,United States
+Choloma,Honduras
+Badalona,Spain
+Regina,Canada
+Chilpancingo,Mexico
+Rio Verde,Brazil
+Fargo,United States
+Ternopil,Ukraine
+Puerto Vallarta,Mexico
+Bandar-e Bushehr,Iran
+Mainz,Germany
+Sandton,South Africa
+Cork,Ireland
+Dili,Timor-Leste
+Swindon,United Kingdom
+Sabadell,Spain
+Hialeah,United States
+San Bernardino,United States
+Oviedo,Spain
+Tacoma,United States
+El Jadid,Morocco
+Ashdod,Israel
+Gainesville,United States
+Cartagena,Spain
+Al Khubar,Saudi Arabia
+Kropyvnytskyi,Ukraine
+Lubeck,Germany
+Messina,Italy
+Clarksville,United States
+Galati,Romania
+Netanya,Israel
+Alor Setar,Malaysia
+Zielona Gora,Poland
+Wellington,New Zealand
+College Station,United States
+Olympia,United States
+Kremenchuk,Ukraine
+Oulu,Finland
+Almere,Netherlands
+Cascais,Portugal
+Roanoke,United States
+Oakville,Canada
+Jerez de la Frontera,Spain
+Portland,United States
+Norwich,United Kingdom
+Czestochowa,Poland
+Luton,United Kingdom
+Zhubei,Taiwan
+Trondheim,Norway
+Linz,Austria
+Rostock,Germany
+Spartanburg,United States
+Kairouan,Tunisia
+Burgas,Bulgaria
+Frisco,United States
+Mostoles,Spain
+Beni Mellal,Morocco
+Legazpi City,Philippines
+Yonkers,United States
+Beersheba,Israel
+Sioux Falls,United States
+Pamplona,Spain
+Quetzaltenango,Guatemala
+Kharagpur,India
+Bila Tserkva,Ukraine
+Hagerstown,United States
+Solihull,United Kingdom
+Shimla,India
+Padova,Italy
+Talca,Chile
+Phan Thiet,Vietnam
+Amarillo,United States
+Kassel,Germany
+Biskra,Algeria
+Charleroi,Belgium
+Geneva,Switzerland
+Ellore,India
+Huntington,United States
+Loja,Ecuador
+Almeria,Spain
+Turku,Finland
+Luxor,Egypt
+Debrecen,Hungary
+Cajamarca,Peru
+Huntington,United States
+Haldia,India
+Aberdeen,United Kingdom
+Merida,Venezuela
+Trieste,Italy
+Torun,Poland
+Ocala,United States
+Waco,United States
+Hobart,Australia
+La Ceiba,Honduras
+Overland Park,United States
+Alcala de Henares,Spain
+Parma,Italy
+Frederick,United States
+Brescia,Italy
+Huntington Beach,United States
+Kouribga,Morocco
+Rzeszow,Poland
+La Serena,Chile
+San Pedro de Macoris,Dominican Republic
+Liege,Belgium
+Guanajuato,Mexico
+Mohammedia,Morocco
+Peoria,United States
+Holon,Israel
+Duzce,Turkey
+Peterborough,United Kingdom
+Sosnowiec,Poland
+Cedar Rapids,United States
+Glendale,United States
+Ciudad del Carmen,Mexico
+Fuenlabrada,Spain
+Isidro Casanova,Argentina
+Hagen,Germany
+Getafe,Spain
+Pskov,Russia
+San Francisco de Macoris,Dominican Republic
+Taranto,Italy
+Murfreesboro,United States
+Bournemouth,United Kingdom
+Potsdam,Germany
+Calbayog City,Philippines
+Burlington,Canada
+Kielce,Poland
+Tekirdag,Turkey
+Tempe,United States
+Basildon,United Kingdom
+Newport News,United States
+Erie,United States
+Modena,Italy
+Breda,Netherlands
+Saarbrucken,Germany
+Nis,Serbia
+Oradea,Romania
+Fort Lauderdale,United States
+Termiz,Uzbekistan
+Odense,Denmark
+Noumea,New Caledonia
+Gainesville,United States
+Braga,Portugal
+Kelowna,Canada
+Toulon,France
+Ploiesti,Romania
+Castellon de la Plana,Spain
+Geelong,Australia
+Edirne,Turkey
+Aurora,United States
+Tiaret,Algeria
+Reims,France
+Ontario,United States
+Nijmegen,Netherlands
+Almada,Portugal
+San Luis Rio Colorado,Mexico
+Al Muharraq,Bahrain
+Bejaia,Algeria
+Burgos,Spain
+Uppsala,Sweden
+Rancho Cucamonga,United States
+Oldenburg,Germany
+Albacete,Spain
+Santander,Spain
+Gliwice,Poland
+Piedras Negras,Mexico
+Townsville,Australia
+Patra,Greece
+Basel,Switzerland
+Mulheim,Germany
+Sherbrooke,Canada
+Saint-Etienne,France
+Oceanside,United States
+Podgorica,Montenegro
+Oeiras,Portugal
+Amadora,Portugal
+Baranavichy,Belarus
+Reggio di Calabria,Italy
+Makurdi,Nigeria
+Nigde,Turkey
+Malayer,Iran
+Olsztyn,Poland
+Lancaster,United States
+Reggio Emilia,Italy
+Batumi,Georgia
+Bielsko-Biala,Poland
+Passo Fundo,Brazil
+Gabes,Tunisia
+Itu,Brazil
+Osnabruck,Germany
+Fredericksburg,United States
+Le Havre,France
+Sudbury,Canada
+Sao Caetano do Sul,Brazil
+Palmdale,United States
+Warrington,United Kingdom
+Dourados,Brazil
+Tenali,India
+Darmstadt,Germany
+Medford,United States
+Chillan,Chile
+Arnhem,Netherlands
+Tunja,Colombia
+Tokat,Turkey
+Skikda,Algeria
+Heidelberg,Germany
+Huddersfield,United Kingdom
+Odessa,United States
+Haarlem,Netherlands
+Villeurbanne,France
+Bizerte,Tunisia
+Perugia,Italy
+Solingen,Germany
+Split,Croatia
+Lafayette,United States
+Dijon,France
+Enschede,Netherlands
+Newport,United Kingdom
+Regensburg,Germany
+Hayward,United States
+Ramat Gan,Israel
+Marbella,Spain
+Corona,United States
+Djelfa,Algeria
+Klaipeda,Lithuania
+Zabrze,Poland
+Bharuch,India
+Szeged,Hungary
+Paterson,United States
+Angers,France
+'s-Hertogenbosch,Netherlands
+Amersfoort,Netherlands
+George,South Africa
+Itapetininga,Brazil
+Guimaraes,Portugal
+Macon,United States
+Portmore,Jamaica
+Girona,Spain
+Grenoble,France
+Lakewood,United States
+Springfield,United States
+Ravenna,Italy
+Paderborn,Germany
+Severodvinsk,Russia
+Neuss,Germany
+Salzburg,Austria
+Braila,Romania
+Barrie,Canada
+Burlington,United States
+Durres,Albania
+Abbotsford,Canada
+Sunnyvale,United States
+Bytom,Poland
+Newcastle,Australia
+Hollywood,United States
+Livorno,Italy
+Barakpur,India
+Roseville,United States
+Ipswich,United Kingdom
+Tauranga,New Zealand
+Bellevue,United States
+Logrono,Spain
+Erzincan,Turkey
+Kragujevac,Serbia
+Badajoz,Spain
+Binghamton,United States
+Nimes,France
+Topeka,United States
+Valdivia,Chile
+Escondido,United States
+Zacatecas,Mexico
+Surprise,United States
+Naperville,United States
+Pasadena,United States
+Rimini,Italy
+Melitopol,Ukraine
+Coquitlam,Canada
+Abbottabad,Pakistan
+Champaign,United States
+Taza,Morocco
+Dundee,United Kingdom
+Al Hawiyah,Saudi Arabia
+Cagliari,Italy
+Aix-en-Provence,France
+Szombathely,Hungary
+Siem Reap,Cambodia
+Jyvaskyla,Finland
+Clermont-Ferrand,France
+Kafr ash Shaykh,Egypt
+Kramatorsk,Ukraine
+Cairns,Australia
+Stavanger,Norway
+Mostaganem,Algeria
+Gloucester,United Kingdom
+Foggia,Italy
+Lake Charles,United States
+Arad,Romania
+Salamanca,Spain
+Saguenay,Canada
+Yuma,United States
+Guelph,Canada
+Midland,United States
+Canakkale,Turkey
+Aalborg,Denmark
+Greeley,United States
+Miskolc,Hungary
+Torrance,United States
+Pyatigorsk,Russia
+Huelva,Spain
+Shillong,India
+Las Cruces,United States
+Ingolstadt,Germany
+Negombo,Sri Lanka
+Okinawa,Japan
+Columbia,United States
+Preston,United Kingdom
+Brasilia,Brazil
+York,United Kingdom
+Lausanne,Switzerland
+Pitesti,Romania
+Tarragona,Spain
+Grand Junction,United States
+Brest,France
+Coimbra,Portugal
+Middlesbrough,United Kingdom
+Ruse,Bulgaria
+Pecs,Hungary
+Kumbakonam,India
+Cuautitlan Izcalli,Mexico
+Al `Aqabah,Jordan
+Santa Tecla,El Salvador
+Darwin,Australia
+Reykjavik,Iceland
+Botucatu,Brazil
+Blackpool,United Kingdom
+La Romana,Dominican Republic
+Trois-Rivieres,Canada
+Balneario de Camboriu,Brazil
+Maykop,Russia
+Apeldoorn,Netherlands
+Tours,France
+Whitby,Canada
+Cambridge,Canada
+Warren,United States
+Teresopolis,Brazil
+Vila Franca de Xira,Portugal
+Northampton,United Kingdom
+Norrkoping,Sweden
+Curico,Chile
+Lakewood,United States
+Pasadena,United States
+Bacau,Romania
+Stamford,United States
+Tizi Ouzou,Algeria
+Maldonado,Uruguay
+Maia,Portugal
+Amiens,France
+Bern,Switzerland
+Ashqelon,Israel
+Laghouat,Algeria
+Sibiu,Romania
+Brighton,United Kingdom
+Dumaguete City,Philippines
+Coral Springs,United States
+Tiraspol,Moldova
+Rybnik,Poland
+Peristeri,Greece
+Uppsala,Sweden
+Yalova,Turkey
+Bloomington,United States
+Charleston,United States
+Male,Maldives
+Luxembourg,Luxembourg
+Rehovot,Israel
+Punto Fijo,Venezuela
+Papeete,French Polynesia
+Vasteras,Sweden
+Jijel,Algeria
+Buea,Cameroon
+Annecy,France
+Tyler,United States
+Atyrau,Kazakhstan
+Araras,Brazil
+Vlore,Albania
+Innsbruck,Austria
+Udon Thani,Thailand
+Heilbronn,Germany
+Ulm,Germany
+Iowa City,United States
+Mataro,Spain
+Zwolle,Netherlands
+Limoges,France
+Ferrara,Italy
+Petapa,Guatemala
+Pforzheim,Germany
+Bellingham,United States
+Norman,United States
+Orebro,Sweden
+Fort Smith,United States
+Wurzburg,Germany
+Yuba City,United States
+Latina,Italy
+Wolfsburg,Germany
+Salerno,Italy
+Leiria,Portugal
+Cabo Frio,Brazil
+Ajax,Canada
+Kenosha,United States
+Giresun,Turkey
+Karabuk,Turkey
+Bonao,Dominican Republic
+Tychy,Poland
+Leeuwarden,Netherlands
+Exeter,United Kingdom
+Kuopio,Finland
+Leiden,Netherlands
+Cambridge,United Kingdom
+Maicao,Colombia
+Punta Arenas,Chile
+Rochester,United States
+Ariana,Tunisia
+Kilifi,Kenya
+San Pedro Garza Garcia,Mexico
+Leon,Spain
+Gyumri,Armenia
+Colchester,United Kingdom
+Monza,Italy
+Metz,France
+Waterloo,Canada
+Dordrecht,Netherlands
+Sassari,Italy
+Perpignan,France
+Redding,United States
+Lahti,Finland
+Gafsa,Tunisia
+Greenville,United States
+Duluth,United States
+Gottingen,Germany
+High Wycombe,United Kingdom
+Maastricht,Netherlands
+Berkeley,United States
+Boulder,United States
+Kandy,Sri Lanka
+Pueblo,United States
+Ghardaia,Algeria
+Mariupol,Ukraine
+Moncton,Canada
+Suceava,Romania
+Pleven,Bulgaria
+Bergamo,Italy
+West Palm Beach,United States
+Slough,United Kingdom
+Huaraz,Peru
+Pescara,Italy
+Reutlingen,Germany
+Bruges,Belgium
+Butwal,Nepal
+Burlington,United States
+Trento,Italy
+Erlangen,Germany
+Saanich,Canada
+North Charleston,United States
+Saginaw,United States
+Clearwater,United States
+Dabrowa Gornicza,Poland
+Linkoping,Sweden
+Cheltenham,United Kingdom
+Orleans,France
+Rouen,France
+Siracusa,Italy
+Ballarat,Australia
+Targu-Mures,Romania
+Helsingborg,Sweden
+Sri Jayewardenepura Kotte,Sri Lanka
+Uzhhorod,Ukraine
+Kasese,Uganda
+Richmond,United States
+Chelmsford,United Kingdom
+Nyiregyhaza,Hungary
+Koblenz,Germany
+Sliven,Bulgaria
+Elblag,Poland
+Mendoza,Argentina
+Bremerhaven,Germany
+Thimphu,Bhutan
+Boras,Sweden
+Namur,Belgium
+Bend,United States
+Remscheid,Germany
+San Carlos de Bariloche,Argentina
+Larisa,Greece
+Jonkoping,Sweden
+Trier,Germany
+Plock,Poland
+Nador,Morocco
+Esteli,Nicaragua
+Alkmaar,Netherlands
+Pervouralsk,Russia
+Murrieta,United States
+Idaho Falls,United States
+Everett,United States
+Jena,Germany
+Rochdale,United Kingdom
+Zhukovskiy,Russia
+Bridgetown,Barbados
+Jacksonville,United States
+Birkenhead,United Kingdom
+Vicenza,Italy
+Brovary,Ukraine
+Winterthur,Switzerland
+Sugar Land,United States
+Maidstone,United Kingdom
+Kecskemet,Hungary
+Delft,Netherlands
+Drammen,Norway
+Chico,United States
+White Rock,Canada
+Kasserine,Tunisia
+Matruh,Egypt
+Baia Mare,Romania
+Oxford,United Kingdom
+Toowoomba,Australia
+Caen,France
+Rijeka,Croatia
+Basingstoke,United Kingdom
+Bloomington,United States
+Monastir,Tunisia
+Hillsboro,United States
+Emmen,Netherlands
+Novyy Urengoy,Russia
+Erdenet,Mongolia
+Crawley,United Kingdom
+Terni,Italy
+Hammamet,Tunisia
+Tarnow,Poland
+Nanaimo,Canada
+Koszalin,Poland
+Columbia,United States
+Funchal,Portugal
+Renton,United States
+Nikopol,Ukraine
+Mulhouse,France
+Brantford,Canada
+Walbrzych,Poland
+Nancy,France
+Siauliai,Lithuania
+Salto,Uruguay
+Salford,United Kingdom
+Uitenhage,South Africa
+Buzau,Romania
+Woodbridge,United States
+Lower Hutt,New Zealand
+Charlottesville,United States
+Lafayette,United States
+Piacenza,Italy
+Noginsk,Russia
+Hildesheim,Germany
+Bowling Green,United States
+Aurangabad,India
+Siegen,Germany
+Worcester,United Kingdom
+Zonguldak,Turkey
+Eastbourne,United Kingdom
+Kaiserslautern,Germany
+Klagenfurt,Austria
+Novara,Italy
+Red Deer,Canada
+Kefar Sava,Israel
+Norwalk,United States
+Cavite City,Philippines
+Carmel,United States
+Cottbus,Germany
+Debre Zeyit,Ethiopia
+Sundsvall,Sweden
+Santiago de Compostela,Spain
+Viseu,Portugal
+Khamis Mushayt,Saudi Arabia
+Blida,Algeria
+Pickering,Canada
+Mossel Bay,South Africa
+Boca Raton,United States
+Sopron,Hungary
+Lethbridge,Canada
+Ancona,Italy
+Sergiyev Posad,Russia
+Balti,Moldova
+Kamloops,Canada
+Udine,Italy
+Janakpur,Nepal
+Paulinia,Brazil
+Beaverton,United States
+Tartu,Estonia
+Pernik,Bulgaria
+Orem,United States
+Conroe,United States
+Suffolk,United States
+Ben Arous,Tunisia
+Oldham,United Kingdom
+Lawrence,United States
+Osijek,Croatia
+Arezzo,Italy
+Maribor,Slovenia
+Szekesfehervar,Hungary
+Cesena,Italy
+Navapolatsk,Belarus
+Hadera,Israel
+Pesaro,Italy
+Naxcivan,Azerbaijan
+Kingsport,United States
+Giessen,Germany
+San Sebastian de los Reyes,Spain
+Legnica,Poland
+Torrevieja,Spain
+Lecce,Italy
+Amstelveen,Netherlands
+Umea,Sweden
+Haskovo,Bulgaria
+Bath,United Kingdom
+Herzliyya,Israel
+Qormi,Malta
+Al Fujayrah,United Arab Emirates
+Tubingen,Germany
+Chilliwack,Canada
+Ramnicu Valcea,Romania
+Galle,Sri Lanka
+Missoula,United States
+Flensburg,Germany
+Yozgat,Turkey
+Barletta,Italy
+Bedford,United Kingdom
+La Spezia,Italy
+Cruzeiro do Sul,Brazil
+Avignon,France
+Fort Myers,United States
+Santa Monica,United States
+Satu Mare,Romania
+Norwalk,United States
+Alessandria,Italy
+Maple Ridge,Canada
+Lawton,United States
+Rapid City,United States
+Larnaca,Cyprus
+Valjevo,Serbia
+Watford,United Kingdom
+El Ejido,Spain
+Botosani,Romania
+Chiclana de la Frontera,Spain
+Stevenage,United Kingdom
+Poitiers,France
+Mestre,Italy
+Clifton,United States
+Kazanlak,Bulgaria
+Aalst,Belgium
+Bloomington,United States
+Lucca,Italy
+Pisa,Italy
+Viana do Castelo,Portugal
+Lawrence,United States
+Suva,Fiji
+Villingen-Schwenningen,Germany
+Nikaia,Greece
+Al Wakrah,Qatar
+Newmarket,Canada
+Panevezys,Lithuania
+Zwickau,Germany
+Chester,United Kingdom
+Dobrich,Bulgaria
+Heerlen,Netherlands
+Gavle,Sweden
+Toledo,Spain
+Loznica,Serbia
+Batticaloa,Sri Lanka
+Velikiye Luki,Russia
+Fuengirola,Spain
+Volos,Greece
+Mukacheve,Ukraine
+Kirklareli,Turkey
+Presov,Slovakia
+Peterborough,Canada
+Catanzaro,Italy
+Treviso,Italy
+Springfield,United States
+Newport Beach,United States
+Nabeul,Tunisia
+Pori,Finland
+Newark,United States
+Yambol,Bulgaria
+Konotop,Ukraine
+Galway,Ireland
+Aylesbury,United Kingdom
+Nazareth,Israel
+Resita,Romania
+Ashford,United Kingdom
+Como,Italy
+Minden,Germany
+Pontevedra,Spain
+David,Panama
+Stockton-on-Tees,United Kingdom
+Mugla,Turkey
+Brindisi,Italy
+Zilina,Slovakia
+Albany,United States
+Redwood City,United States
+Mountain View,United States
+Silver Spring,United States
+Harlow,United Kingdom
+Burnley,United Kingdom
+Bartin,Turkey
+Lucerne,Switzerland
+Cheyenne,United States
+Shumen,Bulgaria
+Jackson,United States
+Lehi,United States
+Launceston,Australia
+Gelendzhik,Russia
+Boynton Beach,United States
+Bamberg,Germany
+Lakewood,United States
+Sint-Niklaas,Belgium
+La Rochelle,France
+State College,United States
+Piatra Neamt,Romania
+Phuket,Thailand
+Terre Haute,United States
+Bistrita,Romania
+Bury,United Kingdom
+Zaandam,Netherlands
+Pau,France
+Curepipe,Mauritius
+Aveiro,Portugal
+Estepona,Spain
+Barreiro,Portugal
+Joensuu,Finland
+Flagstaff,United States
+Daugavpils,Latvia
+Kortrijk,Belgium
+Hasselt,Belgium
+Nitra,Slovakia
+Pleasanton,United States
+Blagoevgrad,Bulgaria
+Cozumel,Mexico
+Guildford,United Kingdom
+Prince George,Canada
+Antibes,France
+Evanston,United States
+Pocatello,United States
+Wilhelmshaven,Germany
+Palmerston North,New Zealand
+Knysna,South Africa
+Weston-super-Mare,United Kingdom
+Banska Bystrica,Slovakia
+Shkoder,Albania
+Sakon Nakhon,Thailand
+Daytona Beach,United States
+Oshkosh,United States
+Redmond,United States
+Lod,Israel
+Cherry Hill,United States
+Saratoga Springs,United States
+Carlisle,United Kingdom
+Aviles,Spain
+Ajaccio,France
+Landshut,Germany
+Dongguan,China
+Belleville,Canada
+Bayreuth,Germany
+Benidorm,Spain
+Skelleftea,Sweden
+Jackson,United States
+Cannes,France
+Ra`ananna,Israel
+Le Bardo,Tunisia
+Sarnia,Canada
+Drohobych,Ukraine
+Harrogate,United Kingdom
+Pancevo,Serbia
+Sheboygan,United States
+Ragusa,Italy
+Brunswick,United States
+Lappeenranta,Finland
+Aschaffenburg,Germany
+Mackay,Australia
+Caguas,Puerto Rico
+Sremska Mitrovica,Serbia
+Ede,Netherlands
+Rocklin,United States
+Tlemcen,Algeria
+Sault Ste. Marie,Canada
+Framingham,United States
+Stara Pazova,Serbia
+Esbjerg,Denmark
+Shrewsbury,United Kingdom
+Camden,United States
+Halmstad,Sweden
+Sagunto,Spain
+Bunbury,Australia
+Kumanovo,North Macedonia
+Zadar,Croatia
+Waukesha,United States
+Pavia,Italy
+Paphos,Cyprus
+Cleveland,United States
+Tataouine,Tunisia
+Guaynabo,Puerto Rico
+Ko Samui,Thailand
+San Miguel de Allende,Mexico
+Walnut Creek,United States
+Cergy,France
+L'Aquila,Italy
+Welland,Canada
+Bitola,North Macedonia
+East Orange,United States
+Aalen,Germany
+Imola,Italy
+Vaasa,Finland
+Granby,Canada
+Piotrkow Trybunalski,Poland
+Sumter,United States
+Ponta Delgada,Portugal
+Pozarevac,Serbia
+Bouira,Algeria
+Ubon Ratchathani,Thailand
+Hameenlinna,Finland
+St. Albert,Canada
+Putrajaya,Malaysia
+Walsall,United Kingdom
+Bergen op Zoom,Netherlands
+Rockville,United States
+Zrenjanin,Serbia
+Veliko Tarnovo,Bulgaria
+Delray Beach,United States
+Kraljevo,Serbia
+Liepaja,Latvia
+Karlskrona,Sweden
+Focsani,Romania
+Walton upon Thames,United Kingdom
+Novi Pazar,Serbia
+Szolnok,Hungary
+Queen Creek,United States
+Alpharetta,United States
+Vaxjo,Sweden
+Seinajoki,Finland
+Ames,United States
+Genk,Belgium
+Torreon,Mexico
+Hua Hin,Thailand
+Tatabanya,Hungary
+Kavala,Greece
+Karlstad,Sweden
+Tulcea,Romania
+Albany,United States
+Rovaniemi,Finland
+Lynwood,United States
+Farnborough,United Kingdom
+Ioannina,Greece
+Palaio Faliro,Greece
+Fredericton,Canada
+Roeselare,Belgium
+Rivera,Uruguay
+Bellevue,United States
+Alba Iulia,Romania
+La Linea de la Concepcion,Spain
+Kristiansand,Norway
+Trnava,Slovakia
+Fredrikstad,Norway
+Friedrichshafen,Germany
+Prilep,North Macedonia
+Lugano,Switzerland
+Tetovo,North Macedonia
+Rockhampton,Australia
+Lakewood,United States
+Woking,United Kingdom
+Limerick,Ireland
+Napier,New Zealand
+Figueira da Foz,Portugal
+Springfield,United States
+Trikala,Greece
+Cayenne,French Guiana
+Vejle,Denmark
+Tarnowskie Gory,Poland
+Jupiter,United States
+Olbia,Italy
+Saraburi,Thailand
+Viareggio,Italy
+Taunton,United Kingdom
+Bracknell,United Kingdom
+Greifswald,Germany
+Nahariyya,Israel
+Ponnuru,India
+Carrara,Italy
+Chapel Hill,United States
+Portimao,Portugal
+Fano,Italy
+Uzice,Serbia
+Givatayim,Israel
+Des Plaines,United States
+Kokomo,United States
+Jackson,United States
+Shoreline,United States
+Katerini,Greece
+Medford,United States
+Yevlax,Azerbaijan
+Kaposvar,Hungary
+Frankfurt (Oder),Germany
+Xanthi,Greece
+Krusevac,Serbia
+Benevento,Italy
+Carson City,United States
+Hoboken,United States
+Madison,United States
+Mielec,Poland
+Lorient,France
+Savona,Italy
+North Vancouver,Canada
+Nausori,Fiji
+Royal Tunbridge Wells,United Kingdom
+Lacey,United States
+Cerignola,Italy
+Hod HaSharon,Israel
+Den Helder,Netherlands
+Bentonville,United States
+Sarasota,United States
+Castelo Branco,Portugal
+Veszprem,Hungary
+Karditsa,Greece
+Fier,Albania
+Cuneo,Italy
+Trapani,Italy
+Sankt Polten,Austria
+Crewe,United Kingdom
+Porirua,New Zealand
+Schweinfurt,Germany
+Trani,Italy
+Corby,United Kingdom
+Canterbury,United Kingdom
+Pithapuram,India
+Swidnica,Poland
+Trencin,Slovakia
+Huesca,Spain
+Jelgava,Latvia
+El Kef,Tunisia
+Sarpsborg,Norway
+Wetzlar,Germany
+Bad Salzuflen,Germany
+Bekescsaba,Hungary
+Passau,Germany
+Rotorua,New Zealand
+Rocky Mount,United States
+Manhattan,United States
+Chania,Greece
+Ibiza,Spain
+Evora,Portugal
+Kleve,Germany
+Amalapuram,India
+Twin Falls,United States
+Deva,Romania
+Hereford,United Kingdom
+Dunfermline,United Kingdom
+Normal,United States
+Siena,Italy
+San Remo,Italy
+Lancaster,United Kingdom
+Roskilde,Denmark
+Charlottetown,Canada
+Zalau,Romania
+Lautoka,Fiji
+Pula,Croatia
+Alesund,Norway
+Jurmala,Latvia
+Eilat,Israel
+Mikkeli,Finland
+Vernon,Canada
+Alytus,Lithuania
+Covilha,Portugal
+Caldas da Rainha,Portugal
+Pordenone,Italy
+Lincoln,United States
+Teramo,Italy
+Segovia,Spain
+Porvoo,Finland
+Gabrovo,Bulgaria
+Brandon,Canada
+Mascouche,Canada
+Korce,Albania
+Tsukubamirai,Japan
+Columbus,United States
+Aurangabad,India
+Whangarei,New Zealand
+Royal Leamington Spa,United Kingdom
+Skien,Norway
+Massy,France
+Cava de' Tirreni,Italy
+McLean,United States
+Lakewood,United States
+Sfantu-Gheorghe,Romania
+Bandar Seri Begawan,Brunei
+Poprad,Slovakia
+Lulea,Sweden
+Sosua,Dominican Republic
+Eger,Hungary
+North Bethesda,United States
+Karlovac,Croatia
+Lawrence,United States
+Everett,United States
+Port-Vila,Vanuatu
+Biloxi,United States
+Valladolid,Mexico
+Washington,United States
+Courtenay,Canada
+Stillwater,United States
+Mantova,Italy
+Chieti,Italy
+Welwyn Garden City,United Kingdom
+Waterford,Ireland
+Cerritos,United States
+Mandeville,Jamaica
+Kokkola,Finland
+Soest,Germany
+Hilo,United States
+Dornbirn,Austria
+San Luis Obispo,United States
+Minot,United States
+Cornwall,Canada
+Invercargill,New Zealand
+Jendouba,Tunisia
+Lamia,Greece
+Indija,Serbia
+Inverness,United Kingdom
+Folkestone,United Kingdom
+Roseville,United States
+Newark,United States
+Hyvinkaa,Finland
+Huntsville,United States
+Stretford,United Kingdom
+Lecco,Italy
+Ramat HaSharon,Israel
+Jarvenpaa,Finland
+Corroios,Portugal
+Nelson,New Zealand
+Arlington,United States
+Santiago,Panama
+Lohja,Finland
+Salisbury,United Kingdom
+Nanchang,China
+Haugesund,Norway
+Lancaster,United States
+Prievidza,Slovakia
+Palm Springs,United States
+Timbo,Brazil
+Lodi,Italy
+Alajuela,Costa Rica
+Salem,United States
+Berkeley,United States
+Concord,United States
+Albufeira,Portugal
+Turnhout,Belgium
+Saratoga Springs,United States
+Columbia,United States
+Varazdin,Croatia
+Kyustendil,Bulgaria
+Potchefstroom,South Africa
+Woodbridge,United States
+Turda,Romania
+Aleksinac,Serbia
+Tiznit,Morocco
+Buffalo Grove,United States
+Dunakeszi,Hungary
+Meru,Kenya
+Puyallup,United States
+Kalmar,Sweden
+Biella,Italy
+Nagykanizsa,Hungary
+San Giorgio a Cremano,Italy
+Midland,United States
+Rouyn-Noranda,Canada
+Goryachiy Klyuch,Russia
+Pardes Hanna Karkur,Israel
+Stip,North Macedonia
+Civitanova Marche,Italy
+Boumerdes,Algeria
+Dubrovnik,Croatia
+Zugdidi,Georgia
+Princeton,United States
+Dunaujvaros,Hungary
+Chaves,Portugal
+Timmins,Canada
+Drogheda,Ireland
+Famagusta,Cyprus
+Lancaster,United States
+Lancaster,United States
+Annapolis,United States
+Sint-Truiden,Belgium
+Veles,North Macedonia
+Macerata,Italy
+Skovde,Sweden
+Ramsgate,United Kingdom
+Parnu,Estonia
+Sisak,Croatia
+Panaji,India
+Qiryat Bialik,Israel
+Zvolen,Slovakia
+Douai,France
+Plasencia,Spain
+Kopavogur,Iceland
+Nykoping,Sweden
+Cantu,Italy
+Sao Goncalo dos Campos,Brazil
+Issaquah,United States
+Whanganui,New Zealand
+Kampot,Cambodia
+Warren,United States
+Tromso,Norway
+Alexandroupoli,Greece
+Ohrid,North Macedonia
+Ermezinde,Portugal
+Zacatelco,Mexico
+Schio,Italy
+Komotini,Greece
+Barda,Azerbaijan
+Belize City,Belize
+Atlantic City,United States
+Urbana,United States
+Fribourg,Switzerland
+Bishops Stortford,United Kingdom
+Campbell River,Canada
+Chartres,France
+Celje,Slovenia
+Nove Zamky,Slovakia
+Kalamata,Greece
+Povazska Bystrica,Slovakia
+Thonon-les-Bains,France
+Stirling,United Kingdom
+Annemasse,France
+Kranj,Slovenia
+Molndal,Sweden
+San Martin de los Andes,Argentina
+Penticton,Canada
+Muskogee,United States
+Schaffhausen,Switzerland
+Kajaani,Finland
+Monaco,Monaco
+Frankston,Australia
+Dunedin,New Zealand
+Apia,Samoa
+Roseville,United States
+Falkirk,United Kingdom
+Norristown,United States
+Kharagpur,India
+Richmond,United States
+Cookeville,United States
+Belluno,Italy
+Udhampur,India
+Richmond,United States
+Angra do Heroismo,Portugal
+Brunswick,United States
+Watertown Town,United States
+Redmond,United States
+Cassino,Italy
+West Hollywood,United States
+Long Beach,United States
+Gisborne,New Zealand
+Smolyan,Bulgaria
+College Park,United States
+Conegliano,Italy
+Lexington,United States
+Syracuse,United States
+Onesti,Romania
+Gibraltar,Gibraltar
+Nuoro,Italy
+Newbury,United Kingdom
+Carmel,United States
+Grodzisk Mazowiecki,Poland
+Saint Helier,Jersey
+Silistra,Bulgaria
+Neuchatel,Switzerland
+Goldsboro,United States
+Orillia,Canada
+Mazeikiai,Lithuania
+Helena,United States
+Rochester,United States
+Gostivar,North Macedonia
+Desert Hot Springs,United States
+Udaipur,India
+Pasadena,United States
+Ventspils,Latvia
+Des Moines,United States
+Godollo,Hungary
+Vrilissia,Greece
+Bussum,Netherlands
+Dumfries,United Kingdom
+Lawrence,United States
+Concon,Chile
+Shepparton,Australia
+Niksic,Montenegro
+Juneau,United States
+Duluth,United States
+Mangalia,Romania
+Erie,United States
+Oceanside,United States
+Samut Prakan,Thailand
+Laramie,United States
+Ithaca,United States
+Lloydminster,Canada
+Zug,Switzerland
+Lagos,Portugal
+Springfield,United States
+Arlon,Belgium
+Washington,United States
+Treviglio,Italy
+Salem,United States
+Lawrenceville,United States
+Hafnarfjordhur,Iceland
+Liptovsky Mikulas,Slovakia
+Stratford-upon-Avon,United Kingdom
+Princeton,United States
+Kurunegala,Sri Lanka
+Newark,United States
+Bardejov,Slovakia
+Yverdon-les-Bains,Switzerland
+Bowling Green,United States
+Majuro,Marshall Islands
+Zgorzelec,Poland
+Greenville,United States
+Subotica,Serbia
+Taza,Morocco
+Szekszard,Hungary
+Galesburg,United States
+Bregenz,Austria
+Laurel,United States
+Marmara Ereglisi,Turkey
+Chichester,United Kingdom
+Budaors,Hungary
+Jacksonville,United States
+Udaipur,India
+Lacey,United States
+Russellville,United States
+Langley,Canada
+Greenville,United States
+Oranjestad,Aruba
+Kocani,North Macedonia
+Whitehorse,Canada
+Henderson,United States
+Madison,United States
+Kirov,Russia
+Gyongyos,Hungary
+Svendborg,Denmark
+Ruzomberok,Slovakia
+Ashford,United Kingdom
+Fremont,United States
+Almunecar,Spain
+Porto Calvo,Brazil
+Zhongshan,China
+Fort Saskatchewan,Canada
+Lushnje,Albania
+Limbe,Cameroon
+Palm Springs,United States
+Caboolture,Australia
+Ajka,Hungary
+Visby,Sweden
+Eureka,United States
+Burlington,United States
+Austin,United States
+Mortsel,Belgium
+San Ignacio,Belize
+Rezekne,Latvia
+Tralee,Ireland
+Norfolk,United States
+Montgomery,United States
+Boscoreale,Italy
+Puerto Escondido,Mexico
+Lucenec,Slovakia
+Jodhpur,India
+Key West,United States
+Biarritz,France
+Koper,Slovenia
+Coffs Harbour,Australia
+Mytilini,Greece
+Medford,United States
+Velenje,Slovenia
+South Bradenton,United States
+Stevens Point,United States
+Salem,United States
+Longbridge,United Kingdom
+Lafayette,United States
+Springfield,United States
+Rethymno,Greece
+Victoria,Seychelles
+Herzogenaurach,Germany
+Larvik,Norway
+Medford,United States
+Watertown,United States
+Herndon,United States
+Fairfax,United States
+Saginaw,United States
+Riverside,United States
+Bacolod,Philippines
+Birkirkara,Malta
+Bloomington,United States
+Lucena,Philippines
+Kalach-na-Donu,Russia
+Ennis,Ireland
+Columbus,United States
+Novo Mesto,Slovenia
+Lexington,United States
+Vrbas,Serbia
+Fresno,United States
+Siofok,Hungary
+Burlington,United States
+Newport,United Kingdom
+Katy,United States
+Squamish,Canada
+Burlington,United States
+Roseburg,United States
+Alice Springs,Australia
+Montgomery,United States
+Taupo,New Zealand
+Columbus,United States
+Loon op Zand,Netherlands
+Port Laoise,Ireland
+Cherry Hill,United States
+Blue Island,United States
+Keflavik,Iceland
+Montgomery,United States
+Vukovar,Croatia
+Dunajska Streda,Slovakia
+Watertown,United States
+Watertown,United States
+Ventimiglia,Italy
+Frascati,Italy
+Ashland,United States
+Andorra la Vella,Andorra
+Sliema,Malta
+Cadca,Slovakia
+Lincoln,United States
+Frauenfeld,Switzerland
+Kilkenny,Ireland
+Clarksville,United States
+Brunswick,United States
+Tixtla de Guerrero,Mexico
+Birmingham,United States
+Truro,United Kingdom
+Fort St. John,Canada
+Helena,United States
+Ashland,United States
+Ashland,United States
+Somers,United States
+Schramberg,Germany
+Montgomery,United States
+Jekabpils,Latvia
+Molde,Norway
+Ukmerge,Lithuania
+Princeton,United States
+Leskovac,Serbia
+Springfield,United States
+Louisville,United States
+Arlington,United States
+Lillehammer,Norway
+Portland,United States
+Yellowknife,Canada
+Senta,Serbia
+Nyon,Switzerland
+Mosta,Malta
+Ogden,United States
+Wexford,Ireland
+Silver Spring,United States
 Antrim,United Kingdom
 Akureyri,Iceland
 Vevey,Switzerland
@@ -258,3 +2715,11 @@ Philipsburg,Sint Maarten
 Rogatec,Slovenia
 Munxar,Malta
 Hamilton,Bermuda
+Natal,Brazil
+Iguacu,Brazil
+Erfurt,Germany
+Hubli,India
+Mersch,Luxembourg
+Manukau City,New Zealand
+Noginsk,Russia
+Nelspruit,South Africa
