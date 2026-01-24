@@ -10,10 +10,3 @@ export const NavBar = () => {
         </header>
     )
 }
-
-/*
-                <ul className='mr-20 text-2xl text-sky-700 flex gap-10 font-[Roboto] font-medium'>
-                    <li><Link to='/recommend'>Recommend</Link></li>
-                    <li><Link to='/flights'>Flights</Link></li>
-                </ul>
-*/
